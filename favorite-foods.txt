@@ -19,9 +19,7 @@ pizza
 garlic bread
 pizza
 garlic bread
-pizza
-garlic bread
-pizza
+piz
 garlic bread
 pizza
 garlic bread
