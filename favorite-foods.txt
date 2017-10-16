@@ -10,6 +10,8 @@ Mango
 Sushi
 Wraps
 Orange Juice
+Also all foods yum
+
 
 Ryan
 
@@ -17,9 +19,7 @@ pizza
 garlic bread
 pizza
 garlic bread
-pizza
-garlic bread
-pizza
+piz
 garlic bread
 pizza
 garlic bread
